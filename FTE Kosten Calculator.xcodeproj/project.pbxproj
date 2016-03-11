@@ -384,7 +384,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = "FTE Kosten Calculator/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.erwinscode-testprofile.FTE-Kosten-Calculator";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.erwinscode-testprofile.FTEKostenCalculator";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -395,7 +395,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = "FTE Kosten Calculator/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.erwinscode-testprofile.FTE-Kosten-Calculator";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.erwinscode-testprofile.FTEKostenCalculator";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
@@ -467,6 +467,7 @@
 				0F2421A81C93117E0066D412 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		0F2421A91C93117E0066D412 /* Build configuration list for PBXNativeTarget "FTE Kosten CalculatorTests" */ = {
 			isa = XCConfigurationList;
@@ -475,6 +476,7 @@
 				0F2421AB1C93117E0066D412 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		0F2421AC1C93117E0066D412 /* Build configuration list for PBXNativeTarget "FTE Kosten CalculatorUITests" */ = {
 			isa = XCConfigurationList;
@@ -483,6 +485,7 @@
 				0F2421AE1C93117E0066D412 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
