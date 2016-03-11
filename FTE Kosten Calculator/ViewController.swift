@@ -4,7 +4,7 @@
 //
 //  Created by Erwin Giesbers on 02-03-16.
 //  Copyright © 2016 erwinscode. All rights reserved.
-//
+//  Dit is een test
 
 import UIKit
 
